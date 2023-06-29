@@ -13,7 +13,10 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
-    "lerna": "^3.13.1",
-    "concurrently": "^7.2.1"
+    "concurrently": "^7.2.1",
+    "lerna": "^3.13.1"
+  },
+  "dependencies": {
+    "react": "^18.2.0"
   }
 }
